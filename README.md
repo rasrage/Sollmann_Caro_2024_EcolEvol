@@ -1,4 +1,4 @@
-# Data and code for "Spatio-temporal metapopulation trends: the coconut crabs of Zanzibar", Sollmann, R., Caro, T. (submitted), Ecology and Evolution.
+# Data and code for "Spatio-temporal metapopulation trends: the coconut crabs of Zanzibar", Sollmann, R., Caro, T. (2024), Ecology and Evolution.
 --- 
 
 DOI repository: TBD
